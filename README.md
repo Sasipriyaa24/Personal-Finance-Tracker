@@ -13,14 +13,12 @@ Download Python from the official website: [https://www.python.org/downloads/](h
 
 2.Install the required Python libraries:
 
-bash
 pip install pandas matplotlib
+
 
 Run the Project
 Execute the main script:
 
-bash
-Copy
-Edit
 python main.py
+
 
