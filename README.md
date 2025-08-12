@@ -12,8 +12,8 @@ Download Python from the official website: [https://www.python.org/downloads/](h
    git clone <"https://github.com/Sasipriyaa24/Personal-Finance-Tracker">
 
 2.Install the required Python libraries:
-
-pip install pandas matplotlib
+ ```bash
+"pip install pandas matplotlib"
 
 
 Run the Project
