@@ -16,8 +16,7 @@ Download Python from the official website: [https://www.python.org/downloads/](h
 "pip install pandas matplotlib"
 
 
-3.Run the Project
-Execute the main script:
+3.Run the Project Execute the main script:
  ```bash
 "python main.py"
 
